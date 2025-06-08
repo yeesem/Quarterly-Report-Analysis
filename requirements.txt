@@ -1,0 +1,12 @@
+langchain-community
+langchain-ollama
+langgraph
+unstructured[pdf]
+camelot-py[cv]
+PyPDF2
+langchain
+ipykernel
+pdfminer
+pdfplumber
+pi_heif
+pymupdf
